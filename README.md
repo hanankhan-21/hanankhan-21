@@ -3,8 +3,8 @@
 🎓 A First-Class Computer Science Graduate from De Montfort University (UK)  
 💻 Passionate about full-stack development, mobile apps, and real-world problem solving  
 📫 Reach me at:  
-- 📧 Email: khanhanan859@gmail.com  
-- 🔗 GitHub: [HananKhan21](https://github.com/HananKhan21)  
+- 📧 Email: majeedabdulhanan@gmail.com  
+- 🔗 GitHub: [HananKhan-21](https://github.com/HananKhan-21)  
 
 ---
 
